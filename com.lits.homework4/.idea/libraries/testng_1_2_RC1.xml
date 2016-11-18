@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testng-1.2-RC1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/testng-1.2-RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
